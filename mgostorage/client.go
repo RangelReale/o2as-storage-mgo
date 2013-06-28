@@ -1,7 +1,7 @@
 package mgostorage
 
 import(
-	"o2aserver"
+	"github.com/RangelReale/o2aserver"
 	"labix.org/v2/mgo/bson"
 )
 
